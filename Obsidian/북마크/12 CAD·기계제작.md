@@ -61,6 +61,14 @@ updated: 2026-10-01
 - [목공의 모든것 위시스](https://www.wwisys.com/goods/goods_list.php?cateCd=027009001) <small>2021-04</small>
 - [송부장목공기계](http://www.ssong09.com/goods/goods_list.php?page=1&cateCd=005015) <small>2021-04</small>
 
+## CAD 도구·모델 라이브러리 (5)
+
+- [대시보드 - Tinkercad](https://www.tinkercad.com/dashboard) <small>2026-01</small>
+- [무료 3D 모델, CAD 파일 및 2D 도면 - TraceParts](https://www.traceparts.com/els/knape-vogt/ko/sign-up/confirmation?isPendingEmailConfirmation=true) <small>2023-04</small>
+- [스케치업](https://app.sketchup.com/app) <small>2023-02</small>
+- [CAD Forum - STL2DWG (STL->DWG)](https://www.cadforum.cz/catalog_en/stl2dwg.asp) <small>2021-11</small>
+- [Thingiverse](https://www.thingiverse.com/search?q=surfing&type=things&sort=relevant) <small>2021-07</small>
+
 ## 3D프린터 (14)
 
 - [경기정보통신 / 스캔파워](http://www.kgcsoft.co.kr/list/3dp_pro/3dp_3030l.htm) <small>2024-09</small>
@@ -77,13 +85,6 @@ updated: 2026-10-01
 - [3D프린터 활용법 앤더3프로+레이저각인기 조립부터활용까지 Ender3 Pro /3D Printer + Laser Engraver - YouTube](https://www.youtube.com/watch?v=qnfMYjQWAdI&t=391s) <small>2021-12</small>
 - [엔더 3에 BL터치를 장착하는 방법!🔧🔧 - YouTube](https://www.youtube.com/watch?v=M87JOTzesp0&t=514s) <small>2021-12</small>
 - [CR-10S 시리즈 BLTouch 오토레벨링 센서 설치방법 : 네이버 카페](https://cafe.naver.com/ddyair/2705) <small>2021-12</small>
-
-## CAD 도구·모델 라이브러리 (4)
-
-- [대시보드 - Tinkercad](https://www.tinkercad.com/dashboard) <small>2026-01</small>
-- [스케치업](https://app.sketchup.com/app) <small>2023-02</small>
-- [CAD Forum - STL2DWG (STL->DWG)](https://www.cadforum.cz/catalog_en/stl2dwg.asp) <small>2021-11</small>
-- [Thingiverse](https://www.thingiverse.com/search?q=surfing&type=things&sort=relevant) <small>2021-07</small>
 
 ## CNC·레이저·아스파이어 (12)
 

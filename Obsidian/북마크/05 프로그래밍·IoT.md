@@ -7,7 +7,7 @@ updated: 2026-10-01
 > 상위: [[00 북마크 홈]] · 각 목록은 **최근 추가/사용 순**(위쪽이 최근)으로 정렬했습니다.
 
 
-## Node-RED·IoT (21)
+## Node-RED·IoT (23)
 
 - [사물인터넷(IoT) 길라잡이 : 네이버 카페](https://cafe.naver.com/arduinoguide?iframe_url=/MyCafeIntro.nhn%3Fclubid=28764919) <small>2025-02</small>
 - [엣지크로스 EdgeCross - YouTube](https://www.youtube.com/@EDGECROSS/playlists) <small>2025-02</small>
@@ -29,9 +29,11 @@ updated: 2026-10-01
 - [라즈이노 iOT :: 【Node-RED #②】노드-레드! 핵심노드 설명 1편/ Core Node Description! #1](https://rasino.tistory.com/359) <small>2024-11</small>
 - [컴파일파이 , 컴파일 테크놀로지 블로그 (ww.. : 네이버블로그](https://blog.naver.com/cubloc) <small>2024-11</small>
 - [산구루의 IoT 공방](https://iotmaker.kr/) <small>2024-09</small>
+- [Node-RED : 플로우 1](http://127.0.0.1:1880/#flow/23175f36d32935c1) <small>2024-09</small>
 - [(아두이노#265) (NODERED#1) 튜토리얼/설치해보기/기본사용법/아이디어도출 (WIN-NODE-RED 아두이노 시리얼통신 시리즈/녹칸다/포로리야공대가자) - YouTube](https://www.youtube.com/watch?v=-TDpOvdt2eE&t=6048s) <small>2022-10</small>
+- [Node-RED](http://localhost:1880/#flow/04edfbae4ecedf62) <small>2022-10</small>
 
-## 프로그래밍·웹 (24)
+## 프로그래밍·웹 (26)
 
 - [함수 ｜ Dart](https://dart-ko.dev/language/functions) <small>2025-03</small>
 - [확장 프로그램](chrome://extensions/) <small>2025-03</small>
@@ -51,6 +53,8 @@ updated: 2026-10-01
 - [커리어해커 알렉스](https://www.careerhackeralex.com/) <small>2024-08</small>
 - [아이티동스쿨 - YouTube](https://www.youtube.com/@itsdongschool/playlists) <small>2024-07</small>
 - [프로그래머스](https://programmers.co.kr/) <small>2024-06</small>
+- [Site overview ｜ friendly-semolina-bed507](https://app.netlify.com/sites/friendly-semolina-bed507/overview) <small>2023-02</small>
+- [Site overview ｜ heartfelt-selkie-f84dba](https://app.netlify.com/sites/heartfelt-selkie-f84dba/overview) <small>2023-02</small>
 - [Deploy your first project ｜ Netlify](https://app.netlify.com/signup/start) <small>2023-02</small>
 - [생활코딩 - YouTube](https://www.youtube.com/@coohde) <small>2023-01</small>
 - [Teachable Machine](https://teachablemachine.withgoogle.com/) <small>2023-01</small>
@@ -77,7 +81,7 @@ updated: 2026-10-01
 - [추가적인 보더 매니저 Urls ｜ 산구루의 IoT 공방](https://iotmaker.kr/iotbook-board-urls/) <small>2022-11</small>
 - [아두이노로 모터 제어하기(L298N 모듈사용) : 네이버 블로그](https://m.blog.naver.com/emperonics/221834467735) <small>2022-07</small>
 
-## 네트워크·클라우드 (7)
+## 네트워크·클라우드 (8)
 
 - [MAC Address Lookup - MAC OUI IAB IEEE Vendor Search.](https://aruljohn.com/mac.pl) <small>2024-02</small>
 - [(따라學IT) 01. 네트워크란 무엇인가? - YouTube](https://www.youtube.com/watch?v=Av9UFzl_wis&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi) <small>2024-02</small>
@@ -85,6 +89,7 @@ updated: 2026-10-01
 - [AWS Educate](https://aws.amazon.com/ko/education/awseducate/) <small>2022-09</small>
 - [AWS Educate](https://www.awseducate.com/student/s/) <small>2022-09</small>
 - [AWS 사용자의 10가지 실수](https://builders-apj.virtual.awsevents.com/media/t/1_viwa7wu4/259852992) <small>2022-09</small>
+- [Node-RED 로그인 (김동일교수 아마존클라우드) 🔒](http://18.237.x.x:1880/login) <small>2022-08</small>
 - [ipTIME 공유기로 외장하드 무선 공유 (A3004NS-M, NAS, ipDISK, 클라우드)](https://radieom.tistory.com/32) <small>2022-08</small>
 
 ## VR·AR (3)
